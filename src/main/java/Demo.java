@@ -1,5 +1,4 @@
 import com.pluralsight.service.CustomerService;
-import com.pluralsight.service.CustomerServiceImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
